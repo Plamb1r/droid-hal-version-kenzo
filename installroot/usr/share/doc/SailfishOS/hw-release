@@ -1,0 +1,11 @@
+# This file is copied as hw-release (analogous to os-release)
+NAME="Xiaomi Redmi Note 3 Pro"
+ID=kenzo
+MER_HA_DEVICE=kenzo
+MER_HA_VENDOR=xiaomi
+VERSION="0.0.1.1 (armv7hl,unknown)"
+VERSION_ID=0.0.1.1
+PRETTY_NAME="kenzo 0.0.1.1 (armv7hl,unknown)"
+SAILFISH_BUILD=1
+SAILFISH_FLAVOUR=unknown
+HOME_URL="https://sailfishos.org/"
